@@ -5,7 +5,7 @@
 NaviSight is a deep learning-based mobile assistant designed to help visually impaired users understand and navigate indoor environments. It uses real-time object detection, depth estimation, and image-to-speech scene descriptions to provide hands-free indoor guidance.
 
 > 🚀 This was a team project involving 4 contributors.  
-> 👤 **My contributions:** YOLO model training, dataset labeling & annotation, and image description using Gemini API (LLaVA).
+
 
 ---
 
