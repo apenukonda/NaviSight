@@ -29,7 +29,7 @@ NaviSight is a deep learning-based mobile assistant designed to help visually im
 | Depth Estimation     | Depth Anything V2         |
 | Scene Description    | Gemini API (LLaVA)        |
 | Voice Feedback       | Google TTS / Whisper      |
-| Platform             | Android (Kotlin/Java)     |
+| Platform             | Android (flutter)     |
 
 ---
 
