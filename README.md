@@ -15,7 +15,7 @@ NaviSight is a deep learning-based mobile assistant designed to help visually im
 - 📏 **Depth Estimation** to measure distances to objects
 - 🧠 **Scene Description** using Gemini API (LLaVA)
 - 🗣️ **Voice Narration** to speak the description to the user
-- 🖼️ Custom-labeled dataset of 3,000+ indoor images
+- 🖼️ Custom-labeled dataset of 5,000+ indoor images
 - 🎙️ Voice or motion-based image capture
 
 ---
